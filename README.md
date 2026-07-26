@@ -1,6 +1,6 @@
 # My FoodHub Site - Backend
 
-ya sirf backend ha.
+Note: This repository contains only the backend code and custom server logic.
 
 ## Requirements
 - Python 3.* version
