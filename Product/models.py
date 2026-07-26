@@ -1,3 +1,10 @@
+"""
+FoodHub Backend Models
+Created and maintained by Faizan
+
+This module contains the custom models representing FoodHub's
+core product and ordering system, designed from scratch.
+"""
 from django.urls import reverse
 from django_extensions.db.fields import AutoSlugField
 from django.db import models

@@ -1,3 +1,10 @@
+"""
+FoodHub Backend Views
+Developed by Faizan
+
+These views handle the core business logic, including product listing,
+detailed product views, and secure authenticated order management.
+"""
 from django.views.generic import DetailView, ListView, UpdateView, CreateView, TemplateView
 from .models import Product, Order
 from .forms import OrderForm
